@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+header {
+  background-color: rgb(19, 175, 19);
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  line-height: 45px;
+  height: 50px;
+}
+body {
+  background-color: rgb(235, 235, 235);
+}
+
+.conteudo-1 {
+  background-color: white;
+  display: flex;
+  flex-wrap: wrap;
+  width: 90%;
+  height: 300px;
+  margin: 2% auto;
+}
